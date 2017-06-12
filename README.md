@@ -3,3 +3,7 @@ In the following attachments you will be able to see retrieving the inventory is
 
 
 ![LIST INVENTORY](/listinventory.png)
+
+![LIST INVENTORY](/purchaseitem.png)
+
+![LIST INVENTORY](/updateitem.png)
